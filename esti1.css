@@ -1,0 +1,183 @@
+@font-face{
+	font-family:grado8;
+	src: url(groovy.ttf);
+}
+@font-face{
+	font-family:grado7;
+	src: url(swaggy.ttf);
+}
+.papa{
+	position: absolute;
+	top: 11px;
+	left: 110px;
+	width: 1200px;
+	height: 700px;
+	background: #99C68E;
+	border: solid 7px #4F7942;
+}
+.foto{
+	position: absolute;
+	width:1000px;
+	height:200px;
+	top:20px;
+	left: 97px;
+	background: url("wf.png");
+	background-size: cover;
+}
+.cuadro{
+	position: absolute;
+	width: 930px;
+	height: 150px;
+	top: 20px;
+	left: 30px;
+	background:rgba(23,229,154,0);
+	border: solid 5px black;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-family: grado8;
+	font-size:20px;
+}
+.cuadro2{
+	position: absolute;
+	width: 800px;
+	height: 80px;
+	top: 55px;
+	left: 100px;
+	background:rgba(220, 220, 220,0.4);
+	border: solid 5px black;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-family: grado8;
+	font-size:20px;
+}
+.ricardo{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.letras{
+	position: absolute;
+	left: 145px;
+}
+.hijo{
+	position: absolute;
+	width: 530px;
+	height: 410px;
+	top: 250px;
+	left: 30px;
+	background:rgba(23,229,154,0);
+	border: solid 5px #4F7942;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-family: grado8;
+	font-size:20px;
+}
+.hijo2{
+	position: absolute;
+	width: 530px;
+	height: 410px;
+	top: 250px;
+	left: 630px;
+	background: #5CA4C7;
+	border: solid 5px #4F7942;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-family: grado7;
+	font-size:20px;
+}
+.letras2{
+	position: absolute;
+}
+.foto1{
+	position: absolute;
+	top: 10px;
+	left: 10px;
+	width: 240px;
+	height: 150px;
+	background: url("ambiente.png");
+	background-size: cover;
+}
+.foto2{
+	position: absolute;
+	top: 10px;
+	left: 280px;
+	width: 240px;
+	height: 150px;
+	background: url("hambre.png");
+	background-size: cover;
+}
+.foto3{
+	position: absolute;
+	top: 250px;
+	left: 10px;
+	width: 240px;
+	height: 150px;
+	background: url("run.png");
+	background-size: cover;
+}
+.foto4{
+	position: absolute;
+	top: 250px;
+	left: 280px;
+	width: 240px;
+	height: 150px;
+	background: url("sksk.png");
+	background-size: cover;
+}
+.cuadro3{
+	position: absolute;
+	top: 25px;
+	left: 130px;
+	width: 250px;
+	height: 50px;
+	border: solid 5px #4F7942;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-family: grado7;
+	font-size:20px;
+}
+.letras3{
+	position: absolute;
+	left: 20px;
+}
+.cuadro4{
+	position: absolute;
+	top: 100px;
+	left: 10px;
+	width: 500px;
+	height: 285px;
+	border: solid 5px #4F7942;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.cuadro5{
+	position: absolute;
+	top: 115px;
+	left: 25px;
+	width: 480px;
+	height: 265px;
+	background: #5CA4C7;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.cuadro6{
+	position: absolute;
+	top: 130px;
+	left: 35px;
+	width: 450px;
+	height: 228px;
+	border: solid 5px #4F7942;
+	background:rgba(220, 220, 220,0.2);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-family: grado7;
+	font-size:24px;
+}

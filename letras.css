@@ -1,0 +1,9 @@
+.foto1{
+	position: absolute;
+	width:500px;
+	height:350px;
+	top:100px;
+	left: 400px;
+	background: url('saco.png')
+	background-size: cover;
+}
